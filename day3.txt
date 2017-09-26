@@ -1,0 +1,12 @@
+*copy the file to git folder     git add
+*git log
+*git sha
+*git remote add origin
+*git ignore
+push command is to link the local repository with remote repository
+*git clone -net pe jo project pada ha uski same copy bana dega or usko link kardege
+*push command is used after commit command
+*online changes ko apne kam mein lane ke liye git pull ka use karein
+
+first make fileday2-git add .-git branch  day2_branch
+git checkout day_2 branch(toenter branch)
